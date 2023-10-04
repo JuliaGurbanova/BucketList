@@ -11,6 +11,7 @@ A simple SwiftUI-based iOS application that allows users to create and view cust
 **User Authentication**: Authenticate the user using biometrics (e.g., Touch ID or Face ID) to unlock app features.
 **Error Handling**: Handle errors gracefully and provide meaningful error messages to the user.
 
+
 ## Usage
 
 ### Map View
