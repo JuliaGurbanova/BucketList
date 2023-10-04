@@ -5,11 +5,17 @@ A simple SwiftUI-based iOS application that allows users to create and view cust
 ## Features
 
 **Map View**: View a map with custom locations marked using star icons.
+
 **Add Locations**: Add new locations to the map by tapping the "+" button.
+
 **Edit Location Details**: Edit the name and description of a location.
+
 **Nearby Place Information**: Fetch nearby place information from Wikipedia based on the location's coordinates.
+
 **User Authentication**: Authenticate the user using biometrics (e.g., Touch ID or Face ID) to unlock app features.
+
 **Error Handling**: Handle errors gracefully and provide meaningful error messages to the user.
+
 
 
 ## Usage
